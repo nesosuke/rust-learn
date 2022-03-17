@@ -4,3 +4,4 @@ TODO
 - vscode用のformatterってないの
 - 所有権とかの理解
 - 意味 derive ｢派生する｣
+- サンプル　https://github.com/ProgrammingRust/examples
